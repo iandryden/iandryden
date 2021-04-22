@@ -8,7 +8,8 @@
 
 - I have published about 150 articles, and my joint book on Statistical Shape Analysis has about 5000 citations (Google Scholar). 
 
-- My main open source coding project has been the <A href=https://cran.r-project.org/web/packages/shapes/index.html > shapes </A> library in R.  <a alt="CRAN version badge" href="https://cran.r-project.org/package=shapes">
+- My main open source coding project has been the *shapes* library in R.  
+- <a alt="CRAN version badge" href="https://cran.r-project.org/package=shapes">
     <img src="https://img.shields.io/cran/v/shapes.svg">
 </a>
 
