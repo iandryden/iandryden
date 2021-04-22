@@ -8,9 +8,9 @@
 
 - I have published about 150 articles, and my joint book on Statistical Shape Analysis has about 5000 citations (Google Scholar). 
 
-- My main open source coding project has been the <A href=https://cran.r-project.org/web/packages/shapes/index.html > shapes </A> 
+- My main open source coding project has been the <A href=https://cran.r-project.org/web/packages/shapes/index.html > shapes </A> library in R.  
 
-- Further details see: https://www.maths.nottingham.ac.uk/plp/pmzild/
+- Webpage: https://www.maths.nottingham.ac.uk/plp/pmzild/
  
 <!--- - 👋 Hi, I’m Ian Dryden
 - 👀 I’m interested in Statistics
