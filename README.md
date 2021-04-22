@@ -11,7 +11,7 @@
 - My main open source coding project has been the <A href=https://cran.r-project.org/web/packages/shapes/index.html > shapes </A> library in R.  
 
 - Webpage: https://www.maths.nottingham.ac.uk/plp/pmzild/
-- <A href=https://scholar.google.com/citations?user=uMJbHi8AAAAJ&hl=en > Google Scholar. </A> 
+- <A href=https://scholar.google.com/citations?user=uMJbHi8AAAAJ&hl=en > Google Scholar </A> 
 
 
 <!--- - 👋 Hi, I’m Ian Dryden
