@@ -8,7 +8,7 @@
 
 - I have published about 150 articles, and my joint book on Statistical Shape Analysis has about 5000 citations (Google Scholar). 
 
-- My main open source coding project has been the *shapes* library in R. 
+- My main open source coding project has been the *shapes* library in R. https://cran.r-project.org/web/packages/shapes/index.html
 
 - Web: https://www.maths.nottingham.ac.uk/plp/pmzild/
  
