@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ian Dryden
 
-- I am a Professor of Statistics at the University of Nottingham in the UK. 
-
 - My main areas of research are: shape analysis, object data analysis, manifold-valued data analysis, high-dimensional data analysis, image analysis, and applications of statistics. 
 
 - I obtained my PhD from the University of Leeds in 1989 and I have taught and carried out research at the University of Nottingham, University of South Carolina, University of Leeds and University of Chicago. I was Head of School of Mathematical Sciences, University of Nottingham from 2014-2018. 
@@ -11,8 +9,6 @@
 - My main coding project has been the *shapes* library in R.   <a alt="CRAN version badge" href="https://cran.r-project.org/package=shapes"> <img src="https://img.shields.io/cran/v/shapes.svg"> </a> <a alt="CRAN RStudio mirror total downloads badge" href="https://cran.r-project.org/package=shapes">    <img src="https://cranlogs.r-pkg.org/badges/grand-total/shapes">
 </a><a alt="CRAN RStudio mirror monthly downloads badge" href="https://cran.r-project.org/package=shapes"><img src="https://cranlogs.r-pkg.org/badges/shapes"></a>
 
-
-- Webpage: http://www.iandryden.com
 - <A href="https://scholar.google.com/citations?user=uMJbHi8AAAAJ&hl=en" > Google Scholar </A> 
 
 
