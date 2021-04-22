@@ -2,7 +2,7 @@
 
 - I am a Professor of Statistics at the University of Nottingham in the UK. 
 
-- My main area of research is the development of statistical methodology in highly-structured data analysis, including shapes, images and functional data. 
+- My main areas of research are: shape analysis; object data analysis; manifold-valued data analysis; high-dimensional data analysis; image analysis and applications of statistics. 
 
 - I obtained my PhD from the University of Leeds in 1989 and I have taught and carried out research at the University of Nottingham, University of South Carolina, University of Leeds and University of Chicago. I was Head of School of Mathematical Sciences, University of Nottingham from 2014-2018. 
 
