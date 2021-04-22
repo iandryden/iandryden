@@ -12,11 +12,9 @@
 - <a alt="CRAN version badge" href="https://cran.r-project.org/package=shapes">
     <img src="https://img.shields.io/cran/v/shapes.svg">
 </a>
-
 <a alt="CRAN RStudio mirror total downloads badge" href="https://cran.r-project.org/package=shapes">
     <img src="https://cranlogs.r-pkg.org/badges/grand-total/shapes">
 </a>
-
 <a alt="CRAN RStudio mirror monthly downloads badge" href="https://cran.r-project.org/package=shapes">
     <img src="https://cranlogs.r-pkg.org/badges/shapes">
 </a>
