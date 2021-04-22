@@ -6,7 +6,7 @@
 
 - I obtained my PhD from the University of Leeds in 1989 and I have taught and carried out research at the University of Nottingham, University of South Carolina, University of Leeds and University of Chicago. I was Head of School of Mathematical Sciences, University of Nottingham from 2014-2018. 
 
-- I have published about 150 articles, and my joint book on Statistical Shape Analysis has about 5000 citations (Google Scholar). 
+- I have published about 150 articles, and my joint book on <A href=https://www.maths.nottingham.ac.uk/plp/pmzild/book/ > Statistical Shape Analysis </A> has about 5000 citations (Google Scholar). 
 
 - My main open source coding project has been the *shapes* library in R.   <a alt="CRAN version badge" href="https://cran.r-project.org/package=shapes"> <img src="https://img.shields.io/cran/v/shapes.svg"> </a> <a alt="CRAN RStudio mirror total downloads badge" href="https://cran.r-project.org/package=shapes">    <img src="https://cranlogs.r-pkg.org/badges/grand-total/shapes">
 </a><a alt="CRAN RStudio mirror monthly downloads badge" href="https://cran.r-project.org/package=shapes"><img src="https://cranlogs.r-pkg.org/badges/shapes"></a>
