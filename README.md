@@ -12,7 +12,7 @@
 </a><a alt="CRAN RStudio mirror monthly downloads badge" href="https://cran.r-project.org/package=shapes"><img src="https://cranlogs.r-pkg.org/badges/shapes"></a>
 
 
-- Webpage: https://www.iandryden.com
+- Webpage: http://www.iandryden.com
 - <A href="https://scholar.google.com/citations?user=uMJbHi8AAAAJ&hl=en" > Google Scholar </A> 
 
 
