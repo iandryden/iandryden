@@ -10,7 +10,7 @@
 
 - My main open source coding project has been the *shapes* library in R. https://cran.r-project.org/web/packages/shapes/index.html
 
-- Web: https://www.maths.nottingham.ac.uk/plp/pmzild/
+- Further details see: https://www.maths.nottingham.ac.uk/plp/pmzild/
  
 <!--- - 👋 Hi, I’m Ian Dryden
 - 👀 I’m interested in Statistics
